@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead SYSTEM "ead.dtd">
+
+<ead>
+    <eadheader>
+        <eadid>20090013</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Fonds de la Cité internationale universitaire de Paris</titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Archives nationales, Section des missions, Centre des archives
+                    contemporaines</publisher>
+                <date normal="2009">2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Instrument de recherche encodé en XML conformément à la DTD EAD (version 2002)
+                par Jean-Damien Généro dans le cadre d'un travail pratique du Master TNAH de l'École
+                nationale des chartes.</creation>
+            <langusage>Instrument de recherche rédigé en <language langcode="fre"
+                    >français</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="fonds">
+        <did>
+            <origination>
+                <corpname normal="Cité internationale universitaire de Paris (CIUP)">Cité
+                    internationale universitaire de Paris (CIUP)</corpname>
+            </origination>
+            <physdesc>
+                <extent>865 dimabs + 1 carton 48X34X13</extent>
+                <genreform type="dimab">dimabs</genreform>
+                <genreform type="carton">carton 48X34X13</genreform>
+            </physdesc>
+        </did>
+        <acqinfo>
+            <p>Le fonds présenté ci-dessous a été versé par la Fondation nationale de la Cité
+                internationale universitaire de Paris (CIUP). Il provient de la délégation générale
+                et du secrétariat général et comporte 1200 articles dans 872 cartons de type Dimab
+                et 1 carton 48x34x13.</p>
+        </acqinfo>
+        <accessrestrict>
+            <p>Les conditions d’accès à ce fonds d’archives sont régies par le livre II du Code du
+                patrimoine.</p>
+            <p>Communication libre pour l'ensemble sauf pour les articles 47, 50, 53, 148-165,
+                195-200, 205, 206, 224, 225, 232, 267, 305-310, 315, 317, 446, 449, 450, 476, 478,
+                490-493, 496-499, 510-515, 517_539, 540-1036, 1050, 1089, 1096, 1106, 1116, 1161,
+                1172, 1188, 1192, communicables après l'expiration d'un délai de 50 ans.</p>
+        </accessrestrict>
+        <bioghist>
+            <p>Construite à la lisière de Paris, l’originalité de la Cité tient plus de sa
+                conception que de l’importance quantitative de ces équipements. Elle s’est adaptée
+                aux conditions changeantes de la vie estudiantine et universitaire et se découvre,
+                dans le respect de sa mission fondamentale, des vocations nouvelles.</p>
+            <p>Créée en 1925, elle doit son développement au concours de personnalités,
+                d’institutions françaises et étrangères et de pays qui lui ont façonné une
+                physionomie originale. Ce caractère particulier, à la fois universitaire, culturel
+                et international, a été voulu dès l’origine par le créateur de la Cité, André
+                Honnorat, et par tous ceux qui contribuèrent avec lui à son développement. Il
+                sollicite, en France comme à l’étranger, les banquiers, les industriels, les
+                collectivités locales, les gouvernements, afin de recueillir des fonds ; il
+                multiplie voyages et conférences pour exposer l’idéal de la Cité, œuvre de paix pour
+                les jeunes et par les jeunes. Afin de coordonner la somme des initiatives, on crée
+                une Fondation nationale, personne morale de droit privé reconnue d’utilité publique,
+                à laquelle l’Université de Paris donne mandat de construire et d’administrer la
+                Cité. Le succès est immédiat.</p>
+            <p>Suite à l’ouverture de la première maison, la fondation Emile et Louise Deutsch de la
+                Meurthe, d’autres suivent. Un homme d’affaires belge, un comité de personnalités
+                canadiennes, un mécène argentin, une riche propriétaire cubaine, des grandes écoles,
+                des gouvernements étrangers décident de construire pour les étudiants de leur pays
+                ou de leur établissement une maison à la Cité. De 1925 à 1939, on relève 19
+                créations de maisons auxquelles il faut ajouter l’aménagement du parc et en 1936,
+                l’achèvement de la Maison internationale, financée par John D. Rockefeller Jr. Après
+                l’épreuve de la guerre, le mouvement reprend et, de 1945 à 1969, 17 autres maisons
+                sont ouvertes ainsi que l’Hôpital internationale universitaire de Paris (HIUP). La
+                capacité d’accueil est désormais de 5000 à 5500 lits, répartis dans les maisons
+                soumises à des règlements généraux communs mais ayant une autonomie plus ou moins
+                grande par rapport à la Fondation nationale, selon qu’elles lui sont directement
+                rattachées ou qu’elles ont conservé leur propre conseil d’administration. Depuis
+                cette date, s’il n’y a pas eu de construction nouvelle, de nombreux travaux de
+                rénovation ont été effectués afin de moderniser les équipements. Les mécènes sont
+                sans doute moins nombreux qu’autrefois mais les gouvernements étrangers et les
+                pouvoirs publics français apportent toujours leur aide à une institution dont il n’y
+                a pas d’exemple réellement comparable dans le monde.</p>
+        </bioghist>
+        <separatedmaterial>
+            <p>Voir également aux Archives nationales, site de Paris : AJ16/art. 7027-7044 (création
+                de la cité, aménagement, Fondation nationale de la CIUP : fonds versé dans les
+                années 1960 par les services du rectorat de Paris), 50 AP (fonds André Honnorat),
+                307 AP (fonds Raoul Dautry), 406 AP (fonds Bernard Chenot), 462 AP (fonds André
+                François-Poncet).</p>
+            <p>Voir également aux Archives nationales, site de Fontainebleau : 20010243/10-20
+                (Gestion et organisation de la CIUP (versement du rectorat de Paris, chancellerie
+                des universités. 1921-1994), 20090007/1-105 (Théâtre : fonctionnement, activités,
+                partenariat. 1936-1991), 20090014/1-343 (Fondation nationale et maisons : création,
+                construction et aménagement, rénovation, administration générale, finances,
+                relations, résidents, animation. 1906-2002), 20090023/1-59 (Alliance
+                internationale : création, administration générale, relations, animation.
+                1925-2007), 20090024/1-38 (Alliance internationale : plaques de métal, plaques de
+                verre. 1936-1967), 20090025/1-12 (Alliance internationale : enregistrements
+                audiovisuels. s.d.), 20090026/1-4 (Alliance internationale : documents
+                iconographiques. 1950-2002), 20090027/1 (Fondation nationale : plaques de verre.
+                s.d.), 20090028/1-10 (Alliance internationale : affiches. s.d.).</p>
+            <p>Voir également aux Archives départementales des Alpes de Haute-Provence le fonds
+                André Honnorat (4J/1-72).</p>
+        </separatedmaterial>
+        <scopecontent>
+            <p>Composée de maisons françaises et de maisons d’origine étrangère, ainsi que
+                d’équipements et de services, la Cité offre aux résidents les meilleures conditions
+                de logement, de travail et de rencontre.</p>
+            <p>Les résultats obtenus par la Cité universitaire de Paris sont à la hauteur des
+                espérances que l’on avait placées en elle. Depuis 1925, des cohortes d’étudiantes et
+                d’étudiants ont fréquenté la Cité et y ont fait une expérience remarquable
+                d’échanges interculturels dans le cadre d’une organisation de type fédéral. Beaucoup
+                parmi ces anciens résidents sont devenus des personnages célèbres, tels que le
+                président Habib Bourguiba, le président Léopold Sédar Senghor, les Premiers
+                ministres Pierre Elliot Trudeau et Raymond Barre. Beaucoup d’autres ont trouvé à la
+                Cité le support matériel et intellectuel, complétant heureusement leur enseignement
+                universitaire, qui leur a permis de mieux réussir leur vie personnelle. Bien peu ont
+                oublié ces années passées Boulevard Jourdan comme le montrent les nombreux
+                témoignages d’une touchante fidélité reçus par la Fondation nationale ou par
+                l’Alliance internationale des anciens.</p>
+            <p>La CIUP a donc été et reste une institution universitaire, sociale et culturelle
+                essentielle, un facteur incontesté de diffusion du français et de la culture
+                française, un foyer efficace de meilleure connaissance réciproque des cultures du
+                monde. Mais la fidélité à une vocation ne doit pas masquer les évolutions. La Cité
+                universitaire du XXIème siècle ne peut être la même que celle des années 1920. Le
+                monde a changé, les réalités universitaires aussi. L’accroissement du nombre des
+                étudiants, l’allongement de la durée des études, la multiplication des universités
+                tant en province qu’à l’étranger, l’ampleur prise par la politique de coopération,
+                l’essor des échanges universitaires internationaux, ont transformé les flux
+                d’étudiants venant à Paris. Incapable de faire face à toutes les demandes, la Cité
+                tend à recruter les étudiants et chercheurs les plus avancés sur le plan
+                universitaire. Leurs préoccupations, leurs besoins, leurs exigences, les conditions
+                de leur séjour parisien ne sont pas les mêmes que ceux des générations précédentes.
+                S’ils ne dédaignent pas l’atmosphère d’amitié qui s’établit dans la vie quotidienne
+                de leur résidence, ils souhaitent trouver à travers la Cité, d’une part des contacts
+                plus larges, d’autre part des occasions de satisfaire concrètement leur aspiration à
+                l’organisation de la vie collective.</p>
+            <p>C’est dans cet esprit que le conseil d’administration, répondant au vœu des
+                résidents, a créé la « Délégation des Comités de résidents », comprenant 12 membres
+                élus par les Comités des maisons. Cette délégation sera appelée à formuler des avis
+                et des propositions sur des questions d’intérêt commun, en ce qui concerne la vie et
+                les activités collectives dans l’ensemble de la Cité.</p>
+            <p>La Cité universitaire a su également s’ouvrir sur l’extérieur sans porter pour autant
+                atteinte à la communauté créée par les résidents au sein des maisons ou dans le
+                cadre de leurs associations, l’Association internationale des résidents de la Cité
+                universitaire de Paris (AIRCUP) et l’Association sportive de la Cité universitaire
+                de Paris (ASCUP). Cette ouverture se fait selon deux voies différentes. Il y a en
+                premier l’ouverture aux non-résidents, étudiants ou non, par le biais d’activités
+                sportives, de la Bibliothèque centrale, par l’importance donnée aux activités
+                culturelles tant dans les maisons que dans les salles de spectacle de la Maison
+                internationale. En second lieu, il y a l’ouverture sur le monde scientifique. La
+                Cité souhaite être également un lieu de colloques et de congrès auxquels seront
+                associés, en fonction de leur spécialité et de leur niveau, des résidents. Le nombre
+                de ces manifestations grandit, soit sous forme de symposia à vocation spécifique,
+                soit sous celle, plus spectaculaire, de grands congrès internationaux.</p>
+            <p>La Cité universitaire est avant tout un lieu d’échange. Il s’effectue par la variété
+                des équipements mis au service des résidents. Situé entre la porte d’Orléans et la
+                Porte de Gentilly, la Cité offre en premier lieu un parc de 40 hectares avec,
+                disséminées tout autour, les 40 maisons de styles architecturaux divers. Elle offre
+                néanmoins un point central, celui de la Maison internationale où se trouvent les
+                services communs : la bibliothèque, une maison de la presse, le restaurant, la
+                cafétéria, 3 salles de spectacle (où se déploie une activité intense de création
+                théâtrale, cinématographique, musicale qui fait de cet ensemble une véritable
+                « maison de la culture internationale »), des équipements sportifs (tennis, piscine,
+                gymnase), une banque, un bureau de poste. La Cité concentre également un hôpital,
+                des salons d’apparat, des ateliers artistiques. Elle est ainsi une vraie petite
+                ville, au cœur de l’agglomération parisienne, un hâvre de verdure au milieu d’un
+                dense tissu urbain.</p>
+            <p>Les habitants de ce vaste ensemble, aux origines nationales et scientifiques
+                multiples, sont des étudiants de haut niveau ou des chercheurs et professeurs venus
+                en stage dans les établissements d’enseignement supérieur de la région parisienne.
+                Parmi eux, les français ne sont qu’à peine 30 % et la Cité accueille plus d’une
+                centaine de nationalités différentes, justifiant pleinement le titre de Cité
+                internationale et universitaire. Mais, l’originalité de la Cité est plus profonde et
+                plus subtile. Elle réside dans la volonté de créer une véritable communauté où les
+                maîtres mots sont ceux de tolérance, compréhension, échange et respect de la
+                spécificité de chacun. La dénomination des fondations : Maisons des provinces de
+                France, Maison d’Italie, Maison de Norvège, Fondation agronomique…, ne doit pas
+                faire illusion. A l’intérieur de chacune d’elles, les directeurs veillent à
+                rassembler les personnalités les plus diverses. Chaque année, au moment de la
+                rentrée universitaire, lorsque les commissions d’admission ont désigné ceux et
+                celles qui vont bénéficier d’une chambre à la Cité, s’effectue un intense mouvement
+                d’échanges de maison à maison afin d’établir le brassage des résidents et assurer la
+                multiplicité des contacts entre les étudiants. C’est là une idée fondamentale, née
+                avec l’institution elle-même, et sur ce point la Cité des années 2000 est fidèle à
+                l’esprit de ses concepteurs.</p>
+            <p>En même temps qu’elle recherche et met en pratique cette ouverture, la Cité a pour
+                vocation de préserver et d’entretenir une vie collective qui favorise les échanges
+                entre cultures, alors que s’y côtoient chaque jour les futurs cadres de plus de 100
+                pays du monde. En ce sens, la présence parmi les résidents, de chercheurs et de
+                professeurs sera de plus en plus mise à profit pour donner aux étudiants des
+                occasions multipliées de rencontres avec des universitaires de haut niveau. A leur
+                côté, le déroulement de multiples activités culturelles (soit dans les diverses
+                résidences, soit à la Maison internationale) et la pratique des sports, doivent
+                constituer autant de manifestations d’une vie communautaire au sein de la Cité, avec
+                le concours actif des résidents, de leurs associations, des responsables permanents
+                de la Fondation nationale et des maisons ainsi que de tous ceux qui souhaitent de
+                l’extérieur apporter leur soutien à une action généreuse tournée vers l’avenir.</p>
+            <p>Institution spécifique par ses origines et ses modes de gestion, essentielle à la vie
+                académique parisienne par son ampleur, la Cité poursuit sa mission fondamentale
+                d’accueil et de rapprochement des élites de tous les pays et elle l’enrichit d’un
+                souci nouveau de participation à l’épanouissement culturel, universitaire et social
+                de ses membres.</p>
+            <p>Fondation nationale</p>
+            <p>La Cité internationale universitaire de Paris est une fondation nationale reconnue
+                d’utilité publique, administrée par un Conseil composé de personnalités françaises
+                et étrangères, de représentants du personnel et de résidents.</p>
+            <p>La Fondation nationale gère directement des services centraux et généraux (service
+                financier, service du personnel, service technique et du domaine...) et assure la
+                coordination de l’ensemble de l’Institution dans le respect des statuts, des
+                règlements généraux et des actes de donation. Elle reçoit diverses subventions,
+                notamment du ministère chargé de l’Enseignement supérieur.</p>
+            <p>L’administration générale est confiée au Délégué général, désigné par le conseil
+                d’administration, et assisté dans sa tâche par le Délégué général adjoint ; un
+                second Délégué général adjoint est élu par les directeurs des maisons.</p>
+            <p>Alliance internationale</p>
+            <p>L’Association des anciens résidents de la CIUP, dite Alliance internationale,
+                favorise les relations entre les anciens résidents. Grâce aux liens qu’elle
+                entretient dans tous les pays du monde, elle peut rendre des services aux résidents.
+                Elle publie un bulletin de liaison et organise des manifestations culturelles
+                témoignant de l’idéal des fondateurs.</p>
+        </scopecontent>
+
+        <dsc>
+            <c level="fonds">
+                <did>
+                    <unittitle>Archives de la Cité universitaire</unittitle>
+                </did>
+
+                <c level="subfonds">
+                    <did>
+                        <unitid>I</unitid>
+                        <unittitle>Adminsitration générale</unittitle>
+                    </did>
+
+                    <c level="series">
+                        <did>
+                            <unitid>I.7</unitid>
+                            <unittitle>Finances</unittitle>
+                        </did>
+
+                        <c level="subseries">
+                            <did>
+                                <unitid>I.7.a</unitid>
+                                <unittitle>Dommages de guerre</unittitle>
+                                <unitdate normal="1944/1960">1944-1960</unitdate>
+                            </did>
+
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 166</unitid>
+                                    <unittitle>Etat des lieux général de la Cité.</unittitle>
+                                    <unitdate normal="1942/1960">1942-1960</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Correspondance, notes,
+                                        tableaux récapitulatifs, procès-verbaux de constat,
+                                        rapports, décompte général des dégâts, créances de sinistre,
+                                        listes du mobilier disparu, offres de service.</p>
+                                </scopecontent>
+                            </c>
+
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 167</unitid>
+                                    <unittitle>Etats des dégradations par maisons.</unittitle>
+                                    <unitdate normal="1944/1951">1944-1951</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Correspondance, notes,
+                                        tableaux récapitulatifs, listes du mobilier disparu, devis
+                                        estimatifs des dégâts, procès-verbaux de constat, honoraires
+                                        d’experts, rapports, plans.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 168</unitid>
+                                    <unittitle>Reconstruction mobilière et immobilière.</unittitle>
+                                    <unitdate normal="1946/1960">1946-1960</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Correspondance,
+                                        notes, tableaux récapitulatifs, devis estimatifs du mobilier
+                                        et de l’immobilier à remplacer, honoraires d’experts,
+                                        rapports, factures, listes des fournisseurs, projets, offres
+                                        de service, extraits de Journal Officiel.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                        <c level="subseries">
+                            <did>
+                                <unitid>I.7.b</unitid>
+                                <unittitle>Réquisition de la Cité durant la Guerre</unittitle>
+                                <unitdate normal="1940/1949">1940-1949</unitdate>
+                            </did>
+
+                            <c level="subgrp">
+                                <did>
+                                    <unitid>20090013 art. 169-170</unitid>
+                                    <unittitle>Occupation allemande.</unittitle>
+                                    <unitdate normal="1940/1946">1940-1946</unitdate>
+                                </did>
+
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 169</unitid>
+                                        <unittitle>Indemnités allouées</unittitle>
+                                        <unitdate normal="1940/1945">1940-1945</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Correspondance, notes, état des lieux, déclaration de
+                                            versements, avis de crédit.</p>
+                                    </scopecontent>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 170</unitid>
+                                        <unittitle>Dossiers complets par maisons.</unittitle>
+                                        <unitdate normal="1941-1946">1941-1946</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Correspondance, notes, dossiers d’estimation, polices
+                                            d’assurance, plans, état des lieux, descriptifs.</p>
+                                    </scopecontent>
+                                </c>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 171</unitid>
+                                    <unittitle>Occupation américaine</unittitle>
+                                    <unitdate normal="1941/1949">1941-1949</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Correspondance, notes, demandes d’indemnité, inventaires,
+                                        dossiers estimatifs, état des lieux, avis de crédit, ordres
+                                        de réquisition, polices d’assurance, mémoires, factures.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+
+                        <c level="subseries">
+                            <did>
+                                <unitid>I.7.c</unitid>
+                                <unittitle>Commissions</unittitle>
+                                <unitdate normal="1961/1986">1961-1986</unitdate>
+                            </did>
+
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 172</unitid>
+                                    <unittitle>Commission du calcul économique</unittitle>
+                                    <unitdate normal="1973/1986">1973-1986</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Enquêtes auprès des maisons, questionnaires, convocations,
+                                        comptes rendus de réunions, pièces annexes, notes,
+                                        correspondance.</p>
+                                    <note>
+                                        <!-- Je mets la note de bas de page sur l'intulé du carton ici. -->
+                                        <p>La commission est également appelée commission financière
+                                            ou de la gestion comparée, coût réel par lit.</p>
+                                    </note>
+                                </scopecontent>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <!-- Je divise un article en deux -->
+                                    <unitid>20090013 art. 173a</unitid>
+                                    <unittitle>Commission des marchés et achats en
+                                        commun</unittitle>
+                                    <unitdate normal="1966/1988">1966-1988</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Questionnaires, convocations, comptes rendus de réunions,
+                                        pièces annexes, notes, correspondance.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 173b</unitid>
+                                    <unittitle>Commission de dégrèvements</unittitle>
+                                    <unitdate normal="1961/1968">1961-1968</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Convocations, comptes rendus de réunions.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+
+                        <c level="subseries">
+                            <did>
+                                <unitid>I.7.d</unitid>
+                                <unittitle>Gestion budgétaire</unittitle>
+                                <unitdate normal="1925/1997">1925-1997</unitdate>
+                            </did>
+
+                            <c level="subgrp">
+                                <did>
+                                    <unitid>20090013 art. 174-177</unitid>
+                                    <unittitle>Programmes triennaux.</unittitle>
+                                    <unitdate normal="1986/1996">1986-1996</unitdate>
+                                </did>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 174</unitid>
+                                        <unittitle>Rénovation de la Cité.</unittitle>
+                                        <unitdate normal="1986/1996">1986-1996</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Subventions, programmes, projets, notes, tableaux,
+                                            correspondance, annexes, fiches, mémoires, rapports,
+                                            appels d’offre, comptes rendus de réunion, notices
+                                            techniques, actes d’engagement, échéanciers des
+                                            financements, comptes rendus de conseils
+                                            d’administration.</p>
+                                    </scopecontent>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 175</unitid>
+                                        <unittitle>Maisons et services.</unittitle>
+                                        <unitdate normal="1988/1990">1988-1990</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Correspondance, annexes financières, fiches, factures,
+                                            notes, comptes rendus de réunion.</p>
+                                    </scopecontent>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 176</unitid>
+                                        <unittitle>Marchés.</unittitle>
+                                        <unitdate normal="1988/1990">1988-1990</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Devis descriptifs, actes d’engagement, cahiers, plans</p>
+                                    </scopecontent>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 177</unitid>
+                                        <unittitle>Dossiers de subvention.</unittitle>
+                                        <unitdate normal="1988/1992">1988-1992</unitdate>
+                                    </did>
+                                    <scopecontent>
+                                        <p>Fiches, factures, arrêtés, contrats d’assurance,
+                                            tableaux.</p>
+                                    </scopecontent>
+                                </c>
+                            </c>
+                            <c level="subgrp">
+                                <did>
+                                    <unitid>20090013 art. 178-183</unitid>
+                                    <unittitle>Budgets, bilans, comptes (documents
+                                        comptables).</unittitle>
+                                    <unitdate normal="1946/1997">1946-1997</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Rapports sur le budget, projet de budget, budgets
+                                        prévisionnels, comptes rendus financier, comptes rendus de
+                                        réunion relative à l’examen des comptes, convocations,
+                                        rapports de l’expert comptable / rapport sur la situation de
+                                        la Cité, rapports généraux du commissaire aux comptes,
+                                        rapports comptables et financiers, comptes administratifs,
+                                        rapports de gestion au conseil d’administration, bilans,
+                                        notes, correspondance.</p>
+                                    <note>
+                                        <!-- Je mets une note -->
+                                        <p>L’année 1950 est accompagné de statistiques, l’année 1951
+                                            est seulement une étude d’un expert-comptable sur la
+                                            situation de la Fondation nationale et les années 1952 à
+                                            1954 sont des rapports financiers compilés dans un
+                                            registre. Les années 1947 à 1949 sont manquantes.</p>
+                                    </note>
+                                </scopecontent>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 178</unitid>
+                                        <unitdate normal="1946/1965">1946-1965</unitdate>
+                                    </did>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 179</unitid>
+                                        <unitdate normal="1966/1978">1966-1978</unitdate>
+                                    </did>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 180</unitid>
+                                        <unitdate normal="1979/1987">1979-1987</unitdate>
+                                    </did>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 181</unitid>
+                                        <unitdate normal="1988/1992">1988-1992</unitdate>
+                                    </did>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 182</unitid>
+                                        <unitdate normal="1979/1987">1993-1995</unitdate>
+                                    </did>
+                                </c>
+                                <c level="item">
+                                    <did>
+                                        <unitid>20090013 art. 183</unitid>
+                                        <unitdate normal="1979/1987">1996-1997</unitdate>
+                                    </did>
+                                </c>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 184</unitid>
+                                    <unittitle>Plan comptable.</unittitle>
+                                    <unitdate normal="1976/1995">1976-1995</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Correspondance générale, plans comptables.</p>
+                                </scopecontent>
+                            </c>
+                            <c level="item">
+                                <did>
+                                    <unitid>20090013 art. 185</unitid>
+                                    <unittitle>Budgets travaux.</unittitle>
+                                    <unitdate normal="1925/1973">1925-1973</unitdate>
+                                </did>
+                                <scopecontent>
+                                    <p>Notes, correspondance, rapports, contrats, devis, budgets,
+                                        programmes, projets, listes, tableaux, plans, pièces
+                                        comptables.</p>
+                                </scopecontent>
+                            </c>
+                        </c>
+                    </c>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
