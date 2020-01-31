@@ -3,7 +3,7 @@
 
 <ead>
     <eadheader>
-        <eadid>20090013</eadid>
+        <eadid/>
         <filedesc>
             <titlestmt>
                 <titleproper>Fonds de la Cité internationale universitaire de Paris</titleproper>
@@ -20,10 +20,12 @@
                 nationale des chartes.</creation>
             <langusage>Instrument de recherche rédigé en <language langcode="fre"
                     >français</language>.</langusage>
+            <descrules>Ce répertoire numérique est rédigé conformément à la norme ISAD(G).</descrules>
         </profiledesc>
     </eadheader>
     <archdesc level="fonds">
         <did>
+            <unitid>20090013</unitid>
             <origination>
                 <corpname normal="Cité internationale universitaire de Paris (CIUP)">Cité
                     internationale universitaire de Paris (CIUP)</corpname>
@@ -49,6 +51,7 @@
                 1172, 1188, 1192, communicables après l'expiration d'un délai de 50 ans.</p>
         </accessrestrict>
         <bioghist>
+            <head>Cité Internationale Universitaire de Paris</head>
             <p>Construite à la lisière de Paris, l’originalité de la Cité tient plus de sa
                 conception que de l’importance quantitative de ces équipements. Elle s’est adaptée
                 aux conditions changeantes de la vie estudiantine et universitaire et se découvre,
@@ -83,29 +86,6 @@
                 sans doute moins nombreux qu’autrefois mais les gouvernements étrangers et les
                 pouvoirs publics français apportent toujours leur aide à une institution dont il n’y
                 a pas d’exemple réellement comparable dans le monde.</p>
-        </bioghist>
-        <separatedmaterial>
-            <p>Voir également aux Archives nationales, site de Paris : AJ16/art. 7027-7044 (création
-                de la cité, aménagement, Fondation nationale de la CIUP : fonds versé dans les
-                années 1960 par les services du rectorat de Paris), 50 AP (fonds André Honnorat),
-                307 AP (fonds Raoul Dautry), 406 AP (fonds Bernard Chenot), 462 AP (fonds André
-                François-Poncet).</p>
-            <p>Voir également aux Archives nationales, site de Fontainebleau : 20010243/10-20
-                (Gestion et organisation de la CIUP (versement du rectorat de Paris, chancellerie
-                des universités. 1921-1994), 20090007/1-105 (Théâtre : fonctionnement, activités,
-                partenariat. 1936-1991), 20090014/1-343 (Fondation nationale et maisons : création,
-                construction et aménagement, rénovation, administration générale, finances,
-                relations, résidents, animation. 1906-2002), 20090023/1-59 (Alliance
-                internationale : création, administration générale, relations, animation.
-                1925-2007), 20090024/1-38 (Alliance internationale : plaques de métal, plaques de
-                verre. 1936-1967), 20090025/1-12 (Alliance internationale : enregistrements
-                audiovisuels. s.d.), 20090026/1-4 (Alliance internationale : documents
-                iconographiques. 1950-2002), 20090027/1 (Fondation nationale : plaques de verre.
-                s.d.), 20090028/1-10 (Alliance internationale : affiches. s.d.).</p>
-            <p>Voir également aux Archives départementales des Alpes de Haute-Provence le fonds
-                André Honnorat (4J/1-72).</p>
-        </separatedmaterial>
-        <scopecontent>
             <p>Composée de maisons françaises et de maisons d’origine étrangère, ainsi que
                 d’équipements et de services, la Cité offre aux résidents les meilleures conditions
                 de logement, de travail et de rencontre.</p>
@@ -204,10 +184,10 @@
                 d’accueil et de rapprochement des élites de tous les pays et elle l’enrichit d’un
                 souci nouveau de participation à l’épanouissement culturel, universitaire et social
                 de ses membres.</p>
-            <p>Fondation nationale</p>
-            <p>La Cité internationale universitaire de Paris est une fondation nationale reconnue
-                d’utilité publique, administrée par un Conseil composé de personnalités françaises
-                et étrangères, de représentants du personnel et de résidents.</p>
+            <p>Fondation nationale. La Cité internationale universitaire de Paris est une fondation
+                nationale reconnue d’utilité publique, administrée par un Conseil composé de
+                personnalités françaises et étrangères, de représentants du personnel et de
+                résidents.</p>
             <p>La Fondation nationale gère directement des services centraux et généraux (service
                 financier, service du personnel, service technique et du domaine...) et assure la
                 coordination de l’ensemble de l’Institution dans le respect des statuts, des
@@ -216,39 +196,177 @@
             <p>L’administration générale est confiée au Délégué général, désigné par le conseil
                 d’administration, et assisté dans sa tâche par le Délégué général adjoint ; un
                 second Délégué général adjoint est élu par les directeurs des maisons.</p>
-            <p>Alliance internationale</p>
-            <p>L’Association des anciens résidents de la CIUP, dite Alliance internationale,
-                favorise les relations entre les anciens résidents. Grâce aux liens qu’elle
-                entretient dans tous les pays du monde, elle peut rendre des services aux résidents.
-                Elle publie un bulletin de liaison et organise des manifestations culturelles
-                témoignant de l’idéal des fondateurs.</p>
-        </scopecontent>
-
+            <p>Alliance internationale. L’Association des anciens résidents de la CIUP, dite
+                Alliance internationale, favorise les relations entre les anciens résidents. Grâce
+                aux liens qu’elle entretient dans tous les pays du monde, elle peut rendre des
+                services aux résidents. Elle publie un bulletin de liaison et organise des
+                manifestations culturelles témoignant de l’idéal des fondateurs.</p>
+            <p>Présidents à la CIUP depuis l’origine : <list>
+                    <item>André Honnorat (du 6 juin 1925 au 11 février 1948).</item>
+                    <item>Raoul Dautry (du 26 février 1948 au 23 octobre 1951).</item>
+                    <item>André François-Poncet (du 29 novembre 1951 au 25 février 1964).</item>
+                    <item>Bernard Chenot (du 25 février 1964 au 27 février 1985).</item>
+                    <item> Pierre Laurent (du 27 février 1985 au 14 juin 1996).</item>
+                    <item>Michel Gentot (du 14 juin 1996 au 6 janvier 2006).</item>
+                    <item>Marcel Pochard (du 2 mars 2006 à aujourd’hui).</item>
+                </list>
+            </p>
+            <p>Délégués généraux à la CIUP depuis l’origine :<list>
+                    <item>Jules Coulet (du 5 avril 1933 au 12 mai 1945).</item>
+                    <item>André Lirondelle (du 12 mai 1945 au 21 décembre 1949).</item>
+                    <item>André Marchaud (de mai 1950 au 9 juillet 1957).</item>
+                    <item>Robert Garric (de 1958 au 19 juin 1967).</item>
+                    <item>Pierre Marthelot (du 1er octobre 1967 à 1977).</item>
+                    <item>Etienne Dalmasso (du 1er octobre 1977 à mars 1992).</item>
+                    <item>Jean Binon (1992, intérim).</item>
+                    <item>Joseph Goy (du 1er octobre 1992 au 1er novembre 1998).</item>
+                    <item>Claude Ronceray (du 1er novembre 1998 à 2005).</item>
+                    <item>Sylviane Tarsot-Gillery (depuis 2005).</item>
+                </list></p>
+            <p>Secrétaires généraux administratifs à la CIUP depuis l’origine :<list>
+                    <item>Louis Péhuet (du 5 juillet 1948 au 15 octobre 1957).</item>
+                    <item>Daniel Tesseraud (du 27 novembre 1957 au 31 mars 1966).</item>
+                    <item>Pierre Dhombres (du 1er avril 1966 à 1976).</item>
+                    <item>Bénédict Manin (du 1er octobre 1976 au 30 septembre 1986).</item>
+                    <item>Jacques Treffel (du 15 novembre 1986 à 1989).</item>
+                    <item>Jean Binon (de octobre 1989 à 1996).</item>
+                    <item>Claude Ronceray (de 1996 au 1er novembre 1998).</item>
+                    <item>Cécile André (du 11 octobre 2004 à 2007).</item>
+                    <item>Marie-Thérèse Texeraud (déléguée générale adjointe, depuis 2008).</item>
+                </list></p>
+        </bioghist>
+        <separatedmaterial>
+            <p>Voir également aux Archives nationales, site de Paris : AJ16/art. 7027-7044 (création
+                de la cité, aménagement, Fondation nationale de la CIUP : fonds versé dans les
+                années 1960 par les services du rectorat de Paris), 50 AP (fonds André Honnorat),
+                307 AP (fonds Raoul Dautry), 406 AP (fonds Bernard Chenot), 462 AP (fonds André
+                François-Poncet).</p>
+            <p>Voir également aux Archives nationales, site de Fontainebleau : 20010243/10-20
+                (Gestion et organisation de la CIUP (versement du rectorat de Paris, chancellerie
+                des universités. 1921-1994), 20090007/1-105 (Théâtre : fonctionnement, activités,
+                partenariat. 1936-1991), 20090014/1-343 (Fondation nationale et maisons : création,
+                construction et aménagement, rénovation, administration générale, finances,
+                relations, résidents, animation. 1906-2002), 20090023/1-59 (Alliance
+                internationale : création, administration générale, relations, animation.
+                1925-2007), 20090024/1-38 (Alliance internationale : plaques de métal, plaques de
+                verre. 1936-1967), 20090025/1-12 (Alliance internationale : enregistrements
+                audiovisuels. s.d.), 20090026/1-4 (Alliance internationale : documents
+                iconographiques. 1950-2002), 20090027/1 (Fondation nationale : plaques de verre.
+                s.d.), 20090028/1-10 (Alliance internationale : affiches. s.d.).</p>
+            <p>Voir également aux Archives départementales des Alpes de Haute-Provence le fonds
+                André Honnorat (4J/1-72).</p>
+        </separatedmaterial>
+        <arrangement>
+            <head>Plan de classement</head>
+            <p>Les numéros placés en fin de titre renvoient aux numéros des articles de l’instrument
+                de recherche.</p>
+            <list>
+                <item>Administration générale : art. 1-233 <list>
+                        <item>Création de la Cité : art. 1-9</item>
+                        <item>Organes directeurs : art. 10-106 <list>
+                                <item>Délégation générale : art. 10-51</item>
+                                <item>Secrétariat général (adjoint à la déléguée) : art.
+                                    52-73</item>
+                                <item>Conseils d’administration, bureau : art. 74-94</item>
+                                <item>Conférences des directeurs : art. 95-101</item>
+                                <item>Comités d’établissement : art. 102-105</item>
+                                <item>Comités d’étude et d’information : art. 106</item>
+                            </list>
+                        </item>
+                        <item>Organes consultatifs : art.107-111</item>
+                        <item>Relations extérieures : art. 112-128</item>
+                        <item>Communication : art. 129-147 <list>
+                                <item>Interne : art. 129-139</item>
+                                <item>Externe : art. 140-147</item>
+                            </list>
+                        </item>
+                        <item>Gestion des ressources humaines : art. 148-165 <list>
+                                <item>Recrutement et gestion des personnels : art. 148-161</item>
+                                <item>Médecine du travail : art. 162-163</item>
+                                <item>Commissions : art. 164-165</item>
+                            </list>
+                        </item>
+                        <item>Finances : art. 166-233 <list>
+                                <item>Dommages de guerre et réquisitions : art. 166-171</item>
+                                <item>Commissions : art. 172-173</item>
+                                <item>Gestion budgétaire : art. 174-185</item>
+                                <item>Ressources : art. 186-224</item>
+                                <item>Affaires financières diverses : art. 225-227</item>
+                                <item>Banques : art. 228-231</item>
+                                <item>Service financier : art. 232-233</item>
+                            </list>
+                        </item>
+                    </list>
+                </item>
+                <item>Gestion du domaine et du patrimoine : art. 234-418 <list>
+                        <item>Constitution du domaine : art. 234-247</item>
+                        <item>Aménagement et voirie : art. 248-252</item>
+                        <item>Architectes : art. 253-257</item>
+                        <item>Travaux et rénovations : art. 258-260</item>
+                        <item>Restaurants : art. 261-264</item>
+                        <item>Service technique : art. 265-274</item>
+                        <item>Sécurité et surveillance : art. 275-281</item>
+                        <item>Maison internationale : art. 282</item>
+                        <item>Outillage national : art. 283</item>
+                        <item>Pavillon administratif : art. 284</item>
+                        <item>Service médical : art. 285-288</item>
+                        <item>Hôpital : art. 289-317</item>
+                        <item>Gestion des biens immobiliers : art. 318-418 <list>
+                                <item>Maisons rattachées : art. 318-366</item>
+                                <item>Maisons non-rattachées : art. 367-402</item>
+                                <item>Autres bâtiments : art. 403-418</item>
+                            </list>
+                        </item>
+                    </list>
+                </item>
+                <item>Animation du domaine : art. 419-486 <list>
+                        <item>Maison internationale : art. 419-430</item>
+                        <item>Culture : art. 431-448</item>
+                        <item>Sports : art. 449-458</item>
+                        <item>Associations : art. 459-469</item>
+                        <item>Francophonie : art. 470</item>
+                        <item>Agence postale de la Cité : art. 471</item>
+                        <item>Restaurants : art. 472-481</item>
+                        <item>Tournages de films : art. 482-486</item>
+                    </list>
+                </item>
+                <item>Résidents : art. 487-1036 <list>
+                        <item>Admissions : art. 487-495</item>
+                        <item>Vie des résidents : art. 496-511</item>
+                        <item>Affaires politiques : art. 512-515</item>
+                        <item>Annuaires : art. 516-539</item>
+                        <item>Dossiers des résidents : art. 540-1036</item>
+                    </list>
+                </item>
+                <item>Relations entre la cité et les maisons : art. 1037-1200 <list>
+                        <item>Maisons rattachées : art. 1037-1105</item>
+                        <item>Maisons non-rattachées : art. 1106-1198</item>
+                        <item>Projets de création de maison : art. 1199-1200</item>
+                    </list>
+                </item>
+            </list>
+        </arrangement>
         <dsc>
             <c level="fonds">
                 <did>
                     <unittitle>Archives de la Cité universitaire</unittitle>
                 </did>
-
                 <c level="subfonds">
                     <did>
                         <unitid>I</unitid>
                         <unittitle>Adminsitration générale</unittitle>
                     </did>
-
                     <c level="series">
                         <did>
                             <unitid>I.7</unitid>
                             <unittitle>Finances</unittitle>
                         </did>
-
                         <c level="subseries">
                             <did>
                                 <unitid>I.7.a</unitid>
                                 <unittitle>Dommages de guerre</unittitle>
                                 <unitdate normal="1944/1960">1944-1960</unitdate>
                             </did>
-
                             <c level="item">
                                 <did>
                                     <unitid>20090013 art. 166</unitid>
@@ -256,13 +374,12 @@
                                     <unitdate normal="1942/1960">1942-1960</unitdate>
                                 </did>
                                 <scopecontent>
-                                    <p>Correspondance, notes,
-                                        tableaux récapitulatifs, procès-verbaux de constat,
-                                        rapports, décompte général des dégâts, créances de sinistre,
-                                        listes du mobilier disparu, offres de service.</p>
+                                    <p>Correspondance, notes, tableaux récapitulatifs,
+                                        procès-verbaux de constat, rapports, décompte général des
+                                        dégâts, créances de sinistre, listes du mobilier disparu,
+                                        offres de service.</p>
                                 </scopecontent>
                             </c>
-
                             <c level="item">
                                 <did>
                                     <unitid>20090013 art. 167</unitid>
@@ -270,10 +387,10 @@
                                     <unitdate normal="1944/1951">1944-1951</unitdate>
                                 </did>
                                 <scopecontent>
-                                    <p>Correspondance, notes,
-                                        tableaux récapitulatifs, listes du mobilier disparu, devis
-                                        estimatifs des dégâts, procès-verbaux de constat, honoraires
-                                        d’experts, rapports, plans.</p>
+                                    <p>Correspondance, notes, tableaux récapitulatifs, listes du
+                                        mobilier disparu, devis estimatifs des dégâts,
+                                        procès-verbaux de constat, honoraires d’experts, rapports,
+                                        plans.</p>
                                 </scopecontent>
                             </c>
                             <c level="item">
@@ -283,11 +400,11 @@
                                     <unitdate normal="1946/1960">1946-1960</unitdate>
                                 </did>
                                 <scopecontent>
-                                    <p>Correspondance,
-                                        notes, tableaux récapitulatifs, devis estimatifs du mobilier
-                                        et de l’immobilier à remplacer, honoraires d’experts,
-                                        rapports, factures, listes des fournisseurs, projets, offres
-                                        de service, extraits de Journal Officiel.</p>
+                                    <p>Correspondance, notes, tableaux récapitulatifs, devis
+                                        estimatifs du mobilier et de l’immobilier à remplacer,
+                                        honoraires d’experts, rapports, factures, listes des
+                                        fournisseurs, projets, offres de service, extraits de
+                                        Journal Officiel.</p>
                                 </scopecontent>
                             </c>
                         </c>
@@ -297,7 +414,6 @@
                                 <unittitle>Réquisition de la Cité durant la Guerre</unittitle>
                                 <unitdate normal="1940/1949">1940-1949</unitdate>
                             </did>
-
                             <c level="subgrp">
                                 <did>
                                     <unitid>20090013 art. 169-170</unitid>
@@ -341,7 +457,6 @@
                                 </scopecontent>
                             </c>
                         </c>
-
                         <c level="subseries">
                             <did>
                                 <unitid>I.7.c</unitid>
@@ -360,7 +475,6 @@
                                         comptes rendus de réunions, pièces annexes, notes,
                                         correspondance.</p>
                                     <note>
-                                        <!-- Je mets la note de bas de page sur l'intulé du carton ici. -->
                                         <p>La commission est également appelée commission financière
                                             ou de la gestion comparée, coût réel par lit.</p>
                                     </note>
@@ -368,7 +482,6 @@
                             </c>
                             <c level="item">
                                 <did>
-                                    <!-- Je divise un article en deux -->
                                     <unitid>20090013 art. 173a</unitid>
                                     <unittitle>Commission des marchés et achats en
                                         commun</unittitle>
@@ -390,7 +503,6 @@
                                 </scopecontent>
                             </c>
                         </c>
-
                         <c level="subseries">
                             <did>
                                 <unitid>I.7.d</unitid>
@@ -468,20 +580,21 @@
                                         rapports comptables et financiers, comptes administratifs,
                                         rapports de gestion au conseil d’administration, bilans,
                                         notes, correspondance.</p>
-                                    <note>
-                                        <!-- Je mets une note -->
-                                        <p>L’année 1950 est accompagné de statistiques, l’année 1951
-                                            est seulement une étude d’un expert-comptable sur la
-                                            situation de la Fondation nationale et les années 1952 à
-                                            1954 sont des rapports financiers compilés dans un
-                                            registre. Les années 1947 à 1949 sont manquantes.</p>
-                                    </note>
                                 </scopecontent>
                                 <c level="item">
                                     <did>
                                         <unitid>20090013 art. 178</unitid>
                                         <unitdate normal="1946/1965">1946-1965</unitdate>
                                     </did>
+                                    <scopecontent>
+                                        <note>
+                                            <p>L’année 1950 est accompagné de statistiques, l’année 1951
+                                                est seulement une étude d’un expert-comptable sur la
+                                                situation de la Fondation nationale et les années 1952 à
+                                                1954 sont des rapports financiers compilés dans un
+                                                registre. Les années 1947 à 1949 sont manquantes.</p>
+                                        </note>
+                                    </scopecontent>
                                 </c>
                                 <c level="item">
                                     <did>
