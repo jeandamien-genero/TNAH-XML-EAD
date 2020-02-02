@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE ead SYSTEM "ead.dtd">
-
 <ead>
     <eadheader>
         <eadid/>
         <filedesc>
             <titlestmt>
-                <titleproper>Fonds de la Cité internationale universitaire de Paris</titleproper>
+                <titleproper>Répertoire</titleproper>
+                <subtitle> Ministère : Éducation nationale<lb/>Direction : Cité internationale
+                    universitaire de Paris (CIUP) </subtitle>
             </titlestmt>
             <publicationstmt>
                 <publisher>Archives nationales, Section des missions, Centre des archives
@@ -20,7 +21,8 @@
                 nationale des chartes.</creation>
             <langusage>Instrument de recherche rédigé en <language langcode="fre"
                     >français</language>.</langusage>
-            <descrules>Ce répertoire numérique est rédigé conformément à la norme ISAD(G).</descrules>
+            <descrules>Ce répertoire numérique est rédigé conformément à la norme
+                ISAD(G).</descrules>
         </profiledesc>
     </eadheader>
     <archdesc level="fonds">
@@ -184,10 +186,125 @@
                 d’accueil et de rapprochement des élites de tous les pays et elle l’enrichit d’un
                 souci nouveau de participation à l’épanouissement culturel, universitaire et social
                 de ses membres.</p>
-            <p>Fondation nationale. La Cité internationale universitaire de Paris est une fondation
-                nationale reconnue d’utilité publique, administrée par un Conseil composé de
-                personnalités françaises et étrangères, de représentants du personnel et de
-                résidents.</p>
+            <chronlist>
+                <head>Présidents à la CIUP depuis l’origine :</head>
+                <chronitem>
+                    <date normal="19250606/19480211">du 6 juin 1925 au 11 février 1948</date>
+                    <event>André Honnorat</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19480226/19511023">du 26 février 1948 au 23 octobre 1951</date>
+                    <event>Raoul Dautry</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19511129/19640225">du 29 novembre 1951 au 25 février 1964</date>
+                    <event>André François-Poncet</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19640225/19850227">du 25 février 1964 au 27 février 1985</date>
+                    <event>Bernard Chenot</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19850227/19960614">du 27 février 1985 au 14 juin 1996</date>
+                    <event>Pierre Laurent</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19960614/20060106">du 14 juin 1996 au 6 janvier 2006</date>
+                    <event>Michel Gentot</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="20060302">du 2 mars 2006 à aujourd’hui</date>
+                    <event>Marcel Pochard</event>
+                </chronitem>
+            </chronlist>
+            <chronlist>
+                <head>Délégués généraux à la CIUP depuis l’origine</head>
+                <chronitem>
+                    <date normal="19330405/19450512">du 5 avril 1933 au 12 mai 1945</date>
+                    <event>Jules Coulet</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19450512/19491221">du 12 mai 1945 au 21 décembre 1949</date>
+                    <event>André Lirondelle</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="195005/19570709">de mai 1950 au 9 juillet 1957</date>
+                    <event>André Marchaud</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="1958/19670619">de 1958 au 19 juin 1967</date>
+                    <event>Robert Garric</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19671001/1977">du 1er octobre 1967 à 1977</date>
+                    <event>Pierre Marthelot</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19771001/199203">du 1er octobre 1977 à mars 1992</date>
+                    <event>Etienne Dalmasso</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="1992">1992</date>
+                    <event>Jean Binon (intérim)</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19921001/19981101">du 1er octobre 1992 au 1er novembre 1998</date>
+                    <event>Joseph Goy</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19981101/2005">du 1er novembre 1998 à 2005</date>
+                    <event>Claude Ronceray</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="2005">depuis 2005</date>
+                    <event>Sylviane Tarsot-Gillery</event>
+                </chronitem>
+            </chronlist>
+            <chronlist>
+                <head>Secrétaires généraux administratifs à la CIUP depuis l’origine</head>
+                <chronitem>
+                    <date normal="19480705/19571015">du 5 juillet 1948 au 15 octobre 1957</date>
+                    <event>Louis Péhuet</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19571127/19660331">du 27 novembre 1957 au 31 mars 1966</date>
+                    <event>Daniel Tesseraud</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19660401/1976">du 1er avril 1966 à 1976</date>
+                    <event>Pierre Dhombres</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19761001/19860930">du 1er octobre 1976 au 30 septembre 1986</date>
+                    <event>Bénédict Manin</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="19861115/1989">du 15 novembre 1986 à 1989</date>
+                    <event>Jacques Treffel</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="198910/1996">de octobre 1989 à 1996</date>
+                    <event>Jean Binon</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="1996/19981101">de 1996 au 1er novembre 1998</date>
+                    <event>Claude Ronceray</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="20041011/2007">du 11 octobre 2004 à 2007</date>
+                    <event>Cécile André</event>
+                </chronitem>
+                <chronitem>
+                    <date normal="2008">depuis 2008</date>
+                    <event>Marie-Thérèse Texeraud (déléguée générale adjointe)</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <bioghist>
+            <head>Fondation nationale</head>
+            <p>La Cité internationale universitaire de Paris est une fondation nationale reconnue
+                d’utilité publique, administrée par un Conseil composé de personnalités françaises
+                et étrangères, de représentants du personnel et de résidents.</p>
             <p>La Fondation nationale gère directement des services centraux et généraux (service
                 financier, service du personnel, service technique et du domaine...) et assure la
                 coordination de l’ensemble de l’Institution dans le respect des statuts, des
@@ -196,44 +313,14 @@
             <p>L’administration générale est confiée au Délégué général, désigné par le conseil
                 d’administration, et assisté dans sa tâche par le Délégué général adjoint ; un
                 second Délégué général adjoint est élu par les directeurs des maisons.</p>
-            <p>Alliance internationale. L’Association des anciens résidents de la CIUP, dite
-                Alliance internationale, favorise les relations entre les anciens résidents. Grâce
-                aux liens qu’elle entretient dans tous les pays du monde, elle peut rendre des
-                services aux résidents. Elle publie un bulletin de liaison et organise des
-                manifestations culturelles témoignant de l’idéal des fondateurs.</p>
-            <p>Présidents à la CIUP depuis l’origine : <list>
-                    <item>André Honnorat (du 6 juin 1925 au 11 février 1948).</item>
-                    <item>Raoul Dautry (du 26 février 1948 au 23 octobre 1951).</item>
-                    <item>André François-Poncet (du 29 novembre 1951 au 25 février 1964).</item>
-                    <item>Bernard Chenot (du 25 février 1964 au 27 février 1985).</item>
-                    <item> Pierre Laurent (du 27 février 1985 au 14 juin 1996).</item>
-                    <item>Michel Gentot (du 14 juin 1996 au 6 janvier 2006).</item>
-                    <item>Marcel Pochard (du 2 mars 2006 à aujourd’hui).</item>
-                </list>
-            </p>
-            <p>Délégués généraux à la CIUP depuis l’origine :<list>
-                    <item>Jules Coulet (du 5 avril 1933 au 12 mai 1945).</item>
-                    <item>André Lirondelle (du 12 mai 1945 au 21 décembre 1949).</item>
-                    <item>André Marchaud (de mai 1950 au 9 juillet 1957).</item>
-                    <item>Robert Garric (de 1958 au 19 juin 1967).</item>
-                    <item>Pierre Marthelot (du 1er octobre 1967 à 1977).</item>
-                    <item>Etienne Dalmasso (du 1er octobre 1977 à mars 1992).</item>
-                    <item>Jean Binon (1992, intérim).</item>
-                    <item>Joseph Goy (du 1er octobre 1992 au 1er novembre 1998).</item>
-                    <item>Claude Ronceray (du 1er novembre 1998 à 2005).</item>
-                    <item>Sylviane Tarsot-Gillery (depuis 2005).</item>
-                </list></p>
-            <p>Secrétaires généraux administratifs à la CIUP depuis l’origine :<list>
-                    <item>Louis Péhuet (du 5 juillet 1948 au 15 octobre 1957).</item>
-                    <item>Daniel Tesseraud (du 27 novembre 1957 au 31 mars 1966).</item>
-                    <item>Pierre Dhombres (du 1er avril 1966 à 1976).</item>
-                    <item>Bénédict Manin (du 1er octobre 1976 au 30 septembre 1986).</item>
-                    <item>Jacques Treffel (du 15 novembre 1986 à 1989).</item>
-                    <item>Jean Binon (de octobre 1989 à 1996).</item>
-                    <item>Claude Ronceray (de 1996 au 1er novembre 1998).</item>
-                    <item>Cécile André (du 11 octobre 2004 à 2007).</item>
-                    <item>Marie-Thérèse Texeraud (déléguée générale adjointe, depuis 2008).</item>
-                </list></p>
+        </bioghist>
+        <bioghist>
+            <head>Alliance internationale.</head>
+            <p>L’Association des anciens résidents de la CIUP, dite Alliance internationale,
+                favorise les relations entre les anciens résidents. Grâce aux liens qu’elle
+                entretient dans tous les pays du monde, elle peut rendre des services aux résidents.
+                Elle publie un bulletin de liaison et organise des manifestations culturelles
+                témoignant de l’idéal des fondateurs.</p>
         </bioghist>
         <separatedmaterial>
             <p>Voir également aux Archives nationales, site de Paris : AJ16/art. 7027-7044 (création
@@ -258,8 +345,10 @@
         </separatedmaterial>
         <arrangement>
             <head>Plan de classement</head>
-            <p>Les numéros placés en fin de titre renvoient aux numéros des articles de l’instrument
-                de recherche.</p>
+            <note>
+                <p>Les numéros placés en fin de titre renvoient aux numéros des articles de
+                    l’instrument de recherche.</p>
+            </note>
             <list>
                 <item>Administration générale : art. 1-233 <list>
                         <item>Création de la Cité : art. 1-9</item>
@@ -347,26 +436,31 @@
             </list>
         </arrangement>
         <dsc>
+            <!-- Rappel du fonds -->
             <c level="fonds">
                 <did>
                     <unittitle>Archives de la Cité universitaire</unittitle>
                 </did>
+                <!-- Rappel de la grande subdivision où se trouvent les pages à encoder -->
                 <c level="subfonds">
                     <did>
                         <unitid>I</unitid>
                         <unittitle>Adminsitration générale</unittitle>
                     </did>
                     <c level="series">
+                        <!-- Série à la quelle se rapportent les pages à encoder -->
                         <did>
                             <unitid>I.7</unitid>
                             <unittitle>Finances</unittitle>
                         </did>
                         <c level="subseries">
+                            <!-- Sous-série concernée -->
                             <did>
                                 <unitid>I.7.a</unitid>
                                 <unittitle>Dommages de guerre</unittitle>
                                 <unitdate normal="1944/1960">1944-1960</unitdate>
                             </did>
+                            <!-- Page 37 -->
                             <c level="item">
                                 <did>
                                     <unitid>20090013 art. 166</unitid>
@@ -480,6 +574,7 @@
                                     </note>
                                 </scopecontent>
                             </c>
+                            <!-- Page 38 -->
                             <c level="item">
                                 <did>
                                     <unitid>20090013 art. 173a</unitid>
@@ -588,11 +683,12 @@
                                     </did>
                                     <scopecontent>
                                         <note>
-                                            <p>L’année 1950 est accompagné de statistiques, l’année 1951
-                                                est seulement une étude d’un expert-comptable sur la
-                                                situation de la Fondation nationale et les années 1952 à
-                                                1954 sont des rapports financiers compilés dans un
-                                                registre. Les années 1947 à 1949 sont manquantes.</p>
+                                            <p>L’année 1950 est accompagné de statistiques, l’année
+                                                1951 est seulement une étude d’un expert-comptable
+                                                sur la situation de la Fondation nationale et les
+                                                années 1952 à 1954 sont des rapports financiers
+                                                compilés dans un registre. Les années 1947 à 1949
+                                                sont manquantes.</p>
                                         </note>
                                     </scopecontent>
                                 </c>
@@ -614,6 +710,7 @@
                                         <unitdate normal="1988/1992">1988-1992</unitdate>
                                     </did>
                                 </c>
+                                <!-- Page 39, je continue jusqu'à la fin de la sous-série concernée -->
                                 <c level="item">
                                     <did>
                                         <unitid>20090013 art. 182</unitid>
