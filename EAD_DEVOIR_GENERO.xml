@@ -448,7 +448,7 @@
                         <unittitle>Adminsitration générale</unittitle>
                     </did>
                     <c level="series">
-                        <!-- Série à la quelle se rapportent les pages à encoder -->
+                        <!-- Série à laquelle se rapportent les pages à encoder -->
                         <did>
                             <unitid>I.7</unitid>
                             <unittitle>Finances</unittitle>
